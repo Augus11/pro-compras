@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Search\";","map":{"version":3,"sources":["C:/Users/Patricia/Desktop/Nueva carpeta/pro-compras/src/components/Search/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT","sourcesContent":["export { default } from \"./Search\";\n"]},"metadata":{},"sourceType":"module"}
